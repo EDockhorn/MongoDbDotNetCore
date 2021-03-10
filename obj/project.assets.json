@@ -631,19 +631,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\johnny.erick\\.nuget\\packages\\": {}
+    "C:\\Users\\johnn\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\lab\\BooksApi\\BooksApi.csproj",
+      "projectUniqueName": "C:\\lab\\MongoDbDotNetCore\\BooksApi.csproj",
       "projectName": "BooksApi",
-      "projectPath": "C:\\lab\\BooksApi\\BooksApi.csproj",
-      "packagesPath": "C:\\Users\\johnny.erick\\.nuget\\packages\\",
-      "outputPath": "C:\\lab\\BooksApi\\obj\\",
+      "projectPath": "C:\\lab\\MongoDbDotNetCore\\BooksApi.csproj",
+      "packagesPath": "C:\\Users\\johnn\\.nuget\\packages\\",
+      "outputPath": "C:\\lab\\MongoDbDotNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\johnny.erick\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\johnn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -696,7 +696,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
