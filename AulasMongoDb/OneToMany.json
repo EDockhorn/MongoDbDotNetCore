@@ -1,0 +1,19 @@
+{
+    "_id": 3,
+    "meta": 4000,
+    "nome": "Vendas",
+    "funcionarios": [
+        {
+            "_id": 8,
+            "salario": 1400,
+            "turno": "tarde",
+            "cargo": "vendedor"
+        },
+        {
+            "_id": 12,
+            "salario": 1600,
+            "turno": "noite",
+            "cargo": "vendedor"
+        }
+    ]
+}

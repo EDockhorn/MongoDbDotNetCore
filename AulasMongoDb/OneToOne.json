@@ -1,0 +1,11 @@
+{
+    "_id": 1,
+    "cpf": "123456798",
+    "nome": "Joãozinho",
+    "cidade": "São Paulo",
+    "carteirinha": {
+        "_id": 8,
+        "turma": "220A",
+        "ra": 1245
+    }
+}
